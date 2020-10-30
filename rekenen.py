@@ -6,7 +6,6 @@ import string
 from datetime import datetime, date
 import time
 
-opm = "toegevoegd"
 count = -1
 run = False
 show="a"
